@@ -1,0 +1,19 @@
+/*wo elements each a unique class name, then add rules for styles that both elements share as well as their own unique styles*/ 
+.first-element
+.second-element {
+
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.first-element { 
+
+    background-color: black;
+    color: white;
+}
+
+.second-element {
+
+    background-color: yellow;
+}
+

@@ -1,0 +1,28 @@
+/*Create style for all the odd elements */ 
+
+/*Light red for*/  
+
+.odd {
+
+    background-color:lightpink; 
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    }
+.oddly-cool {
+        font-size: 24px;
+}
+
+/* second Element requires: blue text and font size with 36 */ 
+
+.two {
+    color:blue; 
+    font-size: 36px;
+}
+
+.four { 
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+    
+}
+
+
