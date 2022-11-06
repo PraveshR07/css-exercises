@@ -42,6 +42,9 @@ input {
 
 .left-links, .right-links {
   list-style-type: none;  
+  display: flex;
+  align-items: center;
+  gap: 16px;
 }
 
 
@@ -63,5 +66,10 @@ input {
 .a {
     color: #666;
     text-decoration: none;
+  }
+
+
+.footer {
+  background-color: #eee;
 }
 
